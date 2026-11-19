@@ -1,0 +1,1406 @@
+{
+  "author": "保福山聖教醫館",
+  "publisher": "美華書局",
+  "place": "福州",
+  "version": "0.1.0",
+  "keywords": [
+    "醫學史",
+    "福州",
+    "保福山聖教醫館",
+    "院務報告",
+    "捐輸",
+    "教會醫療",
+    "medical history",
+    "medical missions",
+    "hospital annual reports",
+    "Fuzhou",
+    "book circulation"
+  ],
+  "key": "baofu18",
+  "title": "保福山聖教醫館略述十八編",
+  "title_en": "Annual Report of the Baofushan Christian Hospital, No. 18",
+  "year": 1893,
+  "source": "https://id.lib.harvard.edu/alma/990082560560203941/catalog",
+  "source_id": "哈佛燕京圖書館 TA 7908.31/68（1893），DRS 430994500",
+  "file": "Harvard drs 430994500 保福山聖教醫館略述.pdf",
+  "pages": [
+    {
+      "image": 1,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page1-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "00e43349d8b41348703daf6bd25858891120386ec0111e3e04a090e550393fc9",
+      "units": [
+        {
+          "id": "p001-c01",
+          "kind": "heading",
+          "text": "保福山醫館畧述十八編"
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page2-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "b1766febe5aac95980dfa5d18db8f64bf8ea3f85074dd72039d514d64a33aeba",
+      "units": [],
+      "blank": "無原刊文字"
+    },
+    {
+      "image": 3,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page3-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "3d3763c094eed0c5bc68c07743cf975f63393256c50dac3c10a1e97598c6d4d5",
+      "units": [
+        {
+          "id": "p003-c01",
+          "kind": "imprint",
+          "text": "光緒十九年"
+        },
+        {
+          "id": "p003-c02",
+          "kind": "title",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p003-c03",
+          "kind": "imprint",
+          "text": "西歷一千八百九十三年　福州美華書局活板"
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page4-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "5f630e42786ed8590675e85eef082c46a3fbe6dd57a3328fe22676f8c7e7c705",
+      "units": [],
+      "blank": "無原刊文字"
+    },
+    {
+      "image": 5,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page5-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "3fa8e3636fcf3708cf126121395f673ba5f8a13ef71d7a7e54684cf0da5cfbad",
+      "units": [
+        {
+          "id": "p005-c01",
+          "kind": "title",
+          "text": "保福山聖教醫館畧述十八編"
+        },
+        {
+          "id": "p005-c02",
+          "kind": "main",
+          "text": "此本畧述。係論上年醫館所行之事。照西國年份。乃中華"
+        },
+        {
+          "id": "p005-c03",
+          "kind": "main",
+          "text": "十八年十一月十四日起。至十九年十一月廿四日止。為"
+        },
+        {
+          "id": "p005-c04",
+          "kind": "main",
+          "text": "西國一年也。所記新來病症。共計四千四百二十一人。住"
+        },
+        {
+          "id": "p005-c05",
+          "kind": "main",
+          "text": "館就醫者。較客歲尚少數人。共有二百九十八人。施診新"
+        },
+        {
+          "id": "p005-c06",
+          "kind": "main",
+          "text": "舊各症。併住館者。總計一萬四千零四十七人。蓋往歲多"
+        },
+        {
+          "id": "p005-c07",
+          "kind": "main",
+          "text": "在館中。緣今年沾恙。定當靜養。故少在館耳。當在館時。所"
+        },
+        {
+          "id": "p005-c08",
+          "kind": "main",
+          "text": "診疾病。比往年不加多。亦不加少焉。但歲首錢不敷用。未"
+        },
+        {
+          "id": "p005-c09",
+          "kind": "main",
+          "text": "免支絀頻形。中外捐資幫助。無非以節用為要圖。較之各"
+        },
+        {
+          "id": "p005-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page6-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "71a2ddd0f4978efc97cb07f9e22d1bd7a7dcae6d25ab2f395353e6cd266ea455",
+      "units": [
+        {
+          "id": "p006-c01",
+          "kind": "main",
+          "text": "醫館。實見用度少。而施治更多也。惟在中華者。約有五十"
+        },
+        {
+          "id": "p006-c02",
+          "kind": "main",
+          "text": "餘間醫館。俱用西國妙藥器具方法。敝館蒙諸位樂捐不"
+        },
+        {
+          "id": "p006-c03",
+          "kind": "main",
+          "text": "患用而無當。莫視有財足用。各于多題。惜乎有人就診。其"
+        },
+        {
+          "id": "p006-c04",
+          "kind": "main",
+          "text": "症固見可療。因器未便。或藥不敷。致無從措手耳。茲較前"
+        },
+        {
+          "id": "p006-c05",
+          "kind": "main",
+          "text": "數年。器具更覺精緻。多置為佳。伏望各　仁台。出力幫捐。"
+        },
+        {
+          "id": "p006-c06",
+          "kind": "main",
+          "text": "俾成是舉。幸甚。竊想中國庸醫。輒治不對症。必至人命草"
+        },
+        {
+          "id": "p006-c07",
+          "kind": "main",
+          "text": "菅。誠為可恨。故潛心書理。勤慎授徒。冀得藥不妄投。同登"
+        },
+        {
+          "id": "p006-c08",
+          "kind": "main",
+          "text": "仁壽。今年四人學習。幫理館務。研究要書。厥後諒能大益"
+        },
+        {
+          "id": "p006-c09",
+          "kind": "main",
+          "text": "閭閻。豈云小補乎哉。若論目疾等症。宜如何小心診治。方"
+        }
+      ]
+    },
+    {
+      "image": 7,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page7-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "82bbed66d835925331b4928a45c071a8628895b068b8de4f24c172d2b92c2ed2",
+      "units": [
+        {
+          "id": "p007-c01",
+          "kind": "main",
+          "text": "不致瞽。所慮者挨延日久。終難治之以方。或畏割而不敢"
+        },
+        {
+          "id": "p007-c02",
+          "kind": "main",
+          "text": "來。竟使雲迷銀海。獨不知割法。為用藥不能奏功之處。非"
+        },
+        {
+          "id": "p007-c03",
+          "kind": "main",
+          "text": "喜割也。但割症暫痛卽瘳。自無貽禍。況割症未必皆痛。因"
+        },
+        {
+          "id": "p007-c04",
+          "kind": "main",
+          "text": "有傷藥與痺藥。今年中有數人指壞。法宜割。不至害及別"
+        },
+        {
+          "id": "p007-c05",
+          "kind": "main",
+          "text": "處。皆用痺藥。亦不覺其痛也。間有壯胆之人。就割而無懼"
+        },
+        {
+          "id": "p007-c06",
+          "kind": "main",
+          "text": "色者。惟是畧述紀載難全。緣在館者。有時十餘人。有時三"
+        },
+        {
+          "id": "p007-c07",
+          "kind": "main",
+          "text": "十餘人。早晨換藥等事。不紀在內。每日與生徒共五人。幹"
+        },
+        {
+          "id": "p007-c08",
+          "kind": "main",
+          "text": "旋諸務照前年除禮拜外。日日案頭施醫。使附近者。若值"
+        },
+        {
+          "id": "p007-c09",
+          "kind": "main",
+          "text": "輕症。能連日到館。更得照顧。與住館者相同。療愈甚衆。蓋"
+        },
+        {
+          "id": "p007-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p007-folio",
+          "kind": "folio",
+          "text": "二"
+        }
+      ]
+    },
+    {
+      "image": 8,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page8-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "7252af6ee845aee0d84c7e42cd345b4d163b3814ce98edba5c0b60b112fe4877",
+      "units": [
+        {
+          "id": "p008-c01",
+          "kind": "main",
+          "text": "能忍耐時來故也。設或性急。不常來館。並不聽囑服藥暨"
+        },
+        {
+          "id": "p008-c02",
+          "kind": "main",
+          "text": "好自用者。此皆難醫。昔有一人。久嗽傷肺。攜藥回家。囑其"
+        },
+        {
+          "id": "p008-c03",
+          "kind": "main",
+          "text": "常服此藥。奈彼只服二三次。自然難見大痊。深病久傷。不"
+        },
+        {
+          "id": "p008-c04",
+          "kind": "main",
+          "text": "能一藥卽愈。愚如此輩。亦百人中僅見一二也。刻新設一"
+        },
+        {
+          "id": "p008-c05",
+          "kind": "main",
+          "text": "間書房。儘有好書寓目。此書半售半送。一年售發頗多。並"
+        },
+        {
+          "id": "p008-c06",
+          "kind": "main",
+          "text": "日日下午講讀要書。能開知識。卽目不識丁者。亦能並坐"
+        },
+        {
+          "id": "p008-c07",
+          "kind": "main",
+          "text": "講習焉。"
+        }
+      ]
+    },
+    {
+      "image": 9,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page9-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "b78cf9cfabacb1970fdd2f64f7c2912b144f2d99f255d0591203a46b5eb36c1c",
+      "units": [
+        {
+          "id": "p009-c01",
+          "kind": "heading",
+          "text": "部症共六百二十三人"
+        },
+        {
+          "id": "p009-c02",
+          "kind": "stat",
+          "text": "瘴疾三十八人○血衰二十七人○風寒十二人○輕熱症九"
+        },
+        {
+          "id": "p009-c03",
+          "kind": "stat",
+          "text": "人○寒熱往來三人○紅痲瘋五十一人○白痲瘋八人○爛"
+        },
+        {
+          "id": "p009-c04",
+          "kind": "stat",
+          "text": "痲瘋九人○雞爪瘋四人○霉氣毒十五人○豬頭瘴七人○"
+        },
+        {
+          "id": "p009-c05",
+          "kind": "stat",
+          "text": "新瘋氣三十四人○舊瘋氣二百一十二人○肌肉瘋氣二十"
+        },
+        {
+          "id": "p009-c06",
+          "kind": "stat",
+          "text": "人○流濁毒瘋一人○腰瘋十六人○二層花柳八十二人○"
+        },
+        {
+          "id": "p009-c07",
+          "kind": "stat",
+          "text": "三層花柳二十一人○胎傳花柳四人○男色花柳二十六人"
+        },
+        {
+          "id": "p009-c08",
+          "kind": "stat",
+          "text": "○大風寒二人○餘別症"
+        },
+        {
+          "id": "p009-c09",
+          "kind": "heading",
+          "text": "耳諸症共七十七人"
+        },
+        {
+          "id": "p009-c10",
+          "kind": "stat",
+          "text": "耳內生癰十八人○流耳膿二十九人○耳瘤八人○婦人耳"
+        },
+        {
+          "id": "p009-c11",
+          "kind": "stat",
+          "text": "墜扯破三人○耳膜破二人○餘別症"
+        },
+        {
+          "id": "p009-c12",
+          "kind": "heading",
+          "text": "肌肉症共二百七十一人"
+        },
+        {
+          "id": "p009-c13",
+          "kind": "stat",
+          "text": "大膿瘡一百零三人○背瘡十三人○肌肉發炎五十四人○"
+        },
+        {
+          "id": "p009-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p009-folio",
+          "kind": "folio",
+          "text": "三"
+        }
+      ]
+    },
+    {
+      "image": 10,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page10-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "1b9a4f78af6a399665bcf98125f1641785feffe23d385e9595b1d5db498b56db",
+      "units": [
+        {
+          "id": "p010-c01",
+          "kind": "stat",
+          "text": "生小瘡六十人○爛管十二人○餘別症"
+        },
+        {
+          "id": "p010-c02",
+          "kind": "heading",
+          "text": "心症共三人"
+        },
+        {
+          "id": "p010-c03",
+          "kind": "heading",
+          "text": "皮膚症共一千一百九十二人"
+        },
+        {
+          "id": "p010-c04",
+          "kind": "stat",
+          "text": "爛皮四百九十八人○疥瘡一百三十四人○新水螆一百二"
+        },
+        {
+          "id": "p010-c05",
+          "kind": "stat",
+          "text": "十八人○舊水螆四十七人○癬瘡一百四十人○餘別症"
+        },
+        {
+          "id": "p010-c06",
+          "kind": "heading",
+          "text": "養生症共六百五十五人"
+        },
+        {
+          "id": "p010-c07",
+          "kind": "stat",
+          "text": "缺唇十八人○胃痛一百一十人○漏管九十七人○內痔三"
+        },
+        {
+          "id": "p010-c08",
+          "kind": "stat",
+          "text": "十四人○外痔三十二人○蛀牙一百八十三人○痢疾三人"
+        },
+        {
+          "id": "p010-c09",
+          "kind": "stat",
+          "text": "○便結十八人○餘別症"
+        },
+        {
+          "id": "p010-c10",
+          "kind": "heading",
+          "text": "核症共一百一十人"
+        },
+        {
+          "id": "p010-c11",
+          "kind": "stat",
+          "text": "核發炎七十二人○核中生癰九人○核大六人○餘別症"
+        },
+        {
+          "id": "p010-c12",
+          "kind": "heading",
+          "text": "骨節症共一百四十一人"
+        },
+        {
+          "id": "p010-c13",
+          "kind": "stat",
+          "text": "骨折六人○壞骨二十人○脊骨灣斜九人○骨皮發炎六人"
+        }
+      ]
+    },
+    {
+      "image": 11,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page11-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "83824c1d650807f6263d29279a89797da511212438819e9e9dc824911ae2a642",
+      "units": [
+        {
+          "id": "p011-c01",
+          "kind": "stat",
+          "text": "○骨出輪五人○骨弛四人○骨節扭傷七十人○餘別症"
+        },
+        {
+          "id": "p011-c02",
+          "kind": "heading",
+          "text": "鼻諸症共一十四人"
+        },
+        {
+          "id": "p011-c03",
+          "kind": "stat",
+          "text": "鼻瘤七人○鼻流血一人○鼻舊炎二人○鼻淵三人○鼻內"
+        },
+        {
+          "id": "p011-c04",
+          "kind": "stat",
+          "text": "爛一人"
+        },
+        {
+          "id": "p011-c05",
+          "kind": "heading",
+          "text": "腦筋症共六十八人"
+        },
+        {
+          "id": "p011-c06",
+          "kind": "stat",
+          "text": "腦筋炎十四人○發羊眩四人○頭腦痛八人○痲木十六人"
+        },
+        {
+          "id": "p011-c07",
+          "kind": "stat",
+          "text": "○糊塗作癲三人○失望癲一人○腦衣炎二人○戰風一人"
+        },
+        {
+          "id": "p011-c08",
+          "kind": "stat",
+          "text": "○面偏風二人○偏風四人○受毒風二人"
+        },
+        {
+          "id": "p011-c09",
+          "kind": "heading",
+          "text": "眼諸症共四百四十人"
+        },
+        {
+          "id": "p011-c10",
+          "kind": "stat",
+          "text": "眼睛衣新炎四十人○睛衣舊炎三十一人○睛衣生粗粒五"
+        },
+        {
+          "id": "p011-c11",
+          "kind": "stat",
+          "text": "十五人○睛衣毒炎五人○明角罩炎四十二人○白雲三十"
+        },
+        {
+          "id": "p011-c12",
+          "kind": "stat",
+          "text": "人○明角罩爛二十七人○角罩受傷爛三人○眼胞內翻二"
+        },
+        {
+          "id": "p011-c13",
+          "kind": "stat",
+          "text": "十人○眼球全壞二十一人○外物餌目三人○眼簾炎一十"
+        },
+        {
+          "id": "p011-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p011-folio",
+          "kind": "folio",
+          "text": "四"
+        }
+      ]
+    },
+    {
+      "image": 12,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page12-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "5327b7b5bcbe73824716e012527896c407987d1565ab130b22717f40ad585734",
+      "units": [
+        {
+          "id": "p012-c01",
+          "kind": "stat",
+          "text": "八人○努肉扳睛十八人○倒毛參差十二人○明角罩膿瘡"
+        },
+        {
+          "id": "p012-c02",
+          "kind": "stat",
+          "text": "八人○睛珠變質十四人○眼簾粘合三人○餘別症"
+        },
+        {
+          "id": "p012-c03",
+          "kind": "heading",
+          "text": "呼吸症共一百一十九人"
+        },
+        {
+          "id": "p012-c04",
+          "kind": "stat",
+          "text": "聲瘖啞三人○氣喘九人○氣管嗽血十九人○氣管新炎十"
+        },
+        {
+          "id": "p012-c05",
+          "kind": "stat",
+          "text": "三人○氣管舊炎三十人○肺癆八人○肺衣炎一人○嗽血"
+        },
+        {
+          "id": "p012-c06",
+          "kind": "stat",
+          "text": "五人○餘別症"
+        },
+        {
+          "id": "p012-c07",
+          "kind": "heading",
+          "text": "陰陽症共三百一十五人"
+        },
+        {
+          "id": "p012-c08",
+          "kind": "stat",
+          "text": "經閉一人○小便毒瘤六人○前陰頭皮發炎八人○小便花"
+        },
+        {
+          "id": "p012-c09",
+          "kind": "stat",
+          "text": "柳爛八十人○小便輕毒爛四十五人○腎囊水螆二十七人"
+        },
+        {
+          "id": "p012-c10",
+          "kind": "stat",
+          "text": "○象陽物六人○象腎囊三人○白濁四十三人○水疝九人"
+        },
+        {
+          "id": "p012-c11",
+          "kind": "stat",
+          "text": "○陽頭皮反外四人○包頭便三十一人○小便不通二人○"
+        },
+        {
+          "id": "p012-c12",
+          "kind": "stat",
+          "text": "洩精七人○溺管變窄四人○卵子發炎五人○石淋二人○"
+        },
+        {
+          "id": "p012-c13",
+          "kind": "stat",
+          "text": "餘別症"
+        }
+      ]
+    },
+    {
+      "image": 13,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page13-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "b46016bcdcea678ad50673ed6055aa2a60db83f8ebecec64bd95a7c620de748d",
+      "units": [
+        {
+          "id": "p013-c01",
+          "kind": "heading",
+          "text": "瘤諸症共七十四人"
+        },
+        {
+          "id": "p013-c02",
+          "kind": "stat",
+          "text": "血瘤一人○核瘤二人○毒瘤四人○乳生毒瘤一人○□生"
+        },
+        {
+          "id": "p013-c03",
+          "kind": "stat",
+          "text": "毒瘤二人○耳下核毒瘤二人○口舌毒瘤三人○迴管瘤十"
+        },
+        {
+          "id": "p013-c04",
+          "kind": "stat",
+          "text": "八人○下牙床骨瘤九人○肉瘤二人○渣瘤十四人○餘別"
+        },
+        {
+          "id": "p013-c05",
+          "kind": "stat",
+          "text": "症"
+        },
+        {
+          "id": "p013-c06",
+          "kind": "heading",
+          "text": "受傷症共三百零八人"
+        },
+        {
+          "id": "p013-c07",
+          "kind": "stat",
+          "text": "犬咬十六人○人咬七人○血管斷三人○自刎一人○湯火"
+        },
+        {
+          "id": "p013-c08",
+          "kind": "stat",
+          "text": "傷三十六人○華藥咬傷五人○跌倒受傷三十一人○由人"
+        },
+        {
+          "id": "p013-c09",
+          "kind": "stat",
+          "text": "打並各傷五十一人○各刺傷十九人○割傷八十一人○刺"
+        },
+        {
+          "id": "p013-c10",
+          "kind": "stat",
+          "text": "傷二十八人○銃傷三人○玻傷十四人○石傷十人○手指"
+        },
+        {
+          "id": "p013-c11",
+          "kind": "stat",
+          "text": "割斷二人○餘別症"
+        },
+        {
+          "id": "p013-c12",
+          "kind": "heading",
+          "text": "受毒症共十七人"
+        },
+        {
+          "id": "p013-c13",
+          "kind": "stat",
+          "text": "鴉片癮十二人○服生鴉片二人○漆瘡三人"
+        },
+        {
+          "id": "p013-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p013-folio",
+          "kind": "folio",
+          "text": "五"
+        }
+      ]
+    },
+    {
+      "image": 14,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page14-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "79d427ffc9003a3a436b77be7acf2f7c90f6874907761e4fdceb6c1b64831e5c",
+      "units": [
+        {
+          "id": "p014-c01",
+          "kind": "heading",
+          "text": "割諸症共六百九十九人"
+        },
+        {
+          "id": "p014-c02",
+          "kind": "stat",
+          "text": "放膿瘡九十九人○割手指四人○割跛趾二人○割枝指二"
+        },
+        {
+          "id": "p014-c03",
+          "kind": "stat",
+          "text": "人○因敗骨割大指二人○耳瘤四人○透艱難溺管一人○"
+        },
+        {
+          "id": "p014-c04",
+          "kind": "stat",
+          "text": "眼胞內翻七人○割外痔十四人○內痔七人○割漏管四十"
+        },
+        {
+          "id": "p014-c05",
+          "kind": "stat",
+          "text": "人○拔外物二人○補缺唇十一人○放水疝一人○割開新"
+        },
+        {
+          "id": "p014-c06",
+          "kind": "stat",
+          "text": "瞳人四人○割內翻腳趾二人○鼻瘤十六人○壞骨五人○"
+        },
+        {
+          "id": "p014-c07",
+          "kind": "stat",
+          "text": "割壞下牙床骨一人○割淚管五人○割包頭五人○外痔受"
+        },
+        {
+          "id": "p014-c08",
+          "kind": "stat",
+          "text": "藥壞二人○割眼努肉六人○割歪眼胞二人○補割傷眼胞"
+        },
+        {
+          "id": "p014-c09",
+          "kind": "stat",
+          "text": "一人○托失頷一人○透漏管三十人○割睛珠三人○割爛"
+        },
+        {
+          "id": "p014-c10",
+          "kind": "stat",
+          "text": "管二人○補耳二人○割因爛腳手指五人○割瘤二十一人"
+        },
+        {
+          "id": "p014-c11",
+          "kind": "stat",
+          "text": "○種豆十七人○取牙齒三百五十八人○餘別症"
+        },
+        {
+          "id": "p014-c12",
+          "kind": "heading",
+          "text": "自開館迄今共割一萬一千三百七十人"
+        },
+        {
+          "id": "p014-c13",
+          "kind": "heading",
+          "text": "自開館以來統計十六萬九千九百六十二人"
+        }
+      ]
+    },
+    {
+      "image": 15,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page15-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "ca713498c722d1c0232ea3c982aaae84ab91cfe601ee4054a52566fe54777174",
+      "units": [
+        {
+          "id": "p015-c01",
+          "kind": "main",
+          "text": "以上諸症半是平常。間有幾人。大屬險要奇異之症。診症"
+        },
+        {
+          "id": "p015-c02",
+          "kind": "main",
+          "text": "頗多。卽知大半由人不能自謹。或因貧乏不能美食厚衣"
+        },
+        {
+          "id": "p015-c03",
+          "kind": "main",
+          "text": "故也。○論痲瘋之人。醫之雖不克全愈。亦覺強壯些微。住"
+        },
+        {
+          "id": "p015-c04",
+          "kind": "main",
+          "text": "館亦有濕痲瘋者治之亦見大瘥實喜幫助此等苦楚之"
+        },
+        {
+          "id": "p015-c05",
+          "kind": "main",
+          "text": "人也。○瘋氣之病。多由衣服太薄。或由遇冷而成。惜此輩"
+        },
+        {
+          "id": "p015-c06",
+          "kind": "main",
+          "text": "衣服不足。用藥亦見罔功。○論花柳諸症。世人輕視為平"
+        },
+        {
+          "id": "p015-c07",
+          "kind": "main",
+          "text": "常。竟挨延不力治療。勢必自禍。此症若肯常服好藥。毒自"
+        },
+        {
+          "id": "p015-c08",
+          "kind": "main",
+          "text": "消除。倘遲之又久。毒若外發。五官遍體必壞爛不全。縱能"
+        },
+        {
+          "id": "p015-c09",
+          "kind": "main",
+          "text": "除毒。軀體已見殘缺也。此症或大腦生瘤。不久必斃。卽不"
+        },
+        {
+          "id": "p015-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p015-folio",
+          "kind": "folio",
+          "text": "六"
+        }
+      ]
+    },
+    {
+      "image": 16,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page16-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "4f4654de37d5810123da588786873fef67cf26a46589d36a9df5161d1a48ec74",
+      "units": [
+        {
+          "id": "p016-c01",
+          "kind": "main",
+          "text": "死。亦不能生子。或生子、勢必不育。身有毒氣。易染他人。○"
+        },
+        {
+          "id": "p016-c02",
+          "kind": "main",
+          "text": "論小兒耳膿症。半由父母不知照顧。若童子耳痛。倘能早"
+        },
+        {
+          "id": "p016-c03",
+          "kind": "main",
+          "text": "覺。有一法甚便用。蔥切碎烘熟。以布袋子三寸許盛之。束"
+        },
+        {
+          "id": "p016-c04",
+          "kind": "main",
+          "text": "于耳外。冷則易之。居多獲安。或免耳中流膿之症。卽耳流"
+        },
+        {
+          "id": "p016-c05",
+          "kind": "main",
+          "text": "膿。亦不致耳增諸疾。若有耳中流膿。聚于面皮。不滌必致"
+        },
+        {
+          "id": "p016-c06",
+          "kind": "main",
+          "text": "皮爛。為父母者。宜日用夷皂和湯洗之。再用軟布拭乾。○"
+        },
+        {
+          "id": "p016-c07",
+          "kind": "main",
+          "text": "手指生膿瘡。人多延緩致害。膿一成卽宜剖開否則手皮"
+        },
+        {
+          "id": "p016-c08",
+          "kind": "main",
+          "text": "太薄。膿血易走別處。致害手腕以上。前有一人。因手指些"
+        },
+        {
+          "id": "p016-c09",
+          "kind": "main",
+          "text": "小膿瘡。挨延太久。毒害半臂。嗣割下一臂此毒方不攻心。"
+        }
+      ]
+    },
+    {
+      "image": 17,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page17-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "dea4ffed6eb888d9b548c4257c78a2581f04fb1eabf44854a1624da8f410e022",
+      "units": [
+        {
+          "id": "p017-c01",
+          "kind": "main",
+          "text": "○論大膿瘡生別部位。亦當挑開。多有挨延日久。瘡大致"
+        },
+        {
+          "id": "p017-c02",
+          "kind": "main",
+          "text": "害身體。○無論何處發炎。將生膿瘡之候。要常用麥餔冲"
+        },
+        {
+          "id": "p017-c03",
+          "kind": "main",
+          "text": "開水貼患處。或爛熟番薯乘熱貼一寸厚。冷則易之。如此"
+        },
+        {
+          "id": "p017-c04",
+          "kind": "main",
+          "text": "二三日。待膿熟時。再行挑破。○論皮症半由不潔。當生小"
+        },
+        {
+          "id": "p017-c05",
+          "kind": "main",
+          "text": "癰時。貼膏藥瘡口難開。宜待熟挑開。使膿外出。○水螆病"
+        },
+        {
+          "id": "p017-c06",
+          "kind": "main",
+          "text": "亦由不淨所致。人若常用夷皂和湯洗淨。後用乾布拭乾。"
+        },
+        {
+          "id": "p017-c07",
+          "kind": "main",
+          "text": "庶無此症。既得水螆之症。宜速洗滌。塗好茶油。庶幾克愈。"
+        },
+        {
+          "id": "p017-c08",
+          "kind": "main",
+          "text": "否則來館就醫。○疥瘡是由一類小蟲。入皮中生蛋。蛋一"
+        },
+        {
+          "id": "p017-c09",
+          "kind": "main",
+          "text": "出。蟲卽發。一粒一粒。或水或膿。宜割膿殺蟲壞蛋。再用疥"
+        },
+        {
+          "id": "p017-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p017-folio",
+          "kind": "folio",
+          "text": "七"
+        }
+      ]
+    },
+    {
+      "image": 18,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page18-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "19ba685e4b01db55053bd9b55e5964d054e27df2a9fbd560e5013734fe19cd1b",
+      "units": [
+        {
+          "id": "p018-c01",
+          "kind": "main",
+          "text": "藥卽瘥。不論用何等膏藥。總宜挑破粒點。洗淨膿痂。用力"
+        },
+        {
+          "id": "p018-c02",
+          "kind": "main",
+          "text": "擦藥入窾中為妙。其傳染他人者。因汁中有蟲蛋耳。各宜"
+        },
+        {
+          "id": "p018-c03",
+          "kind": "main",
+          "text": "謹慎。自無此瘡。○皮爛不論在何部位。若用膏藥。必致掩"
+        },
+        {
+          "id": "p018-c04",
+          "kind": "main",
+          "text": "膿流注大爛。○腳爛者。或因路遠。不能來館。宜用淨茶油"
+        },
+        {
+          "id": "p018-c05",
+          "kind": "main",
+          "text": "一兩。加波立霜一錢相和。常用淨棉搵之。縛于爛處。若不"
+        },
+        {
+          "id": "p018-c06",
+          "kind": "main",
+          "text": "見痊。來館診治。○胃痛之症甚多。因吃食太急。不暇咀嚼"
+        },
+        {
+          "id": "p018-c07",
+          "kind": "main",
+          "text": "細碎。或食難消之物。或由大便久結。人欲體壯無病。每日"
+        },
+        {
+          "id": "p018-c08",
+          "kind": "main",
+          "text": "大便宜通。事雖屬粗。實為緊要。最好日日有一定時候通"
+        },
+        {
+          "id": "p018-c09",
+          "kind": "main",
+          "text": "便。若少食大便自然鮮通。亦宜一二日通便。或五六日。或"
+        }
+      ]
+    },
+    {
+      "image": 19,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page19-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "b8d7eabd8391f6367c4fe8679aea84de53c6a3d9d9f9a733a13e85152c09c978",
+      "units": [
+        {
+          "id": "p019-c01",
+          "kind": "main",
+          "text": "十餘日者。定必受害。○漏管。多因挨延畏割。管邊愈深愈"
+        },
+        {
+          "id": "p019-c02",
+          "kind": "main",
+          "text": "大。倘塞外口。別處又生一管。貽害無窮。能忍痛任割。何有"
+        },
+        {
+          "id": "p019-c03",
+          "kind": "main",
+          "text": "十餘年痛楚難痊。○今年割補十一人缺唇。誠為大益之"
+        },
+        {
+          "id": "p019-c04",
+          "kind": "main",
+          "text": "事。蓋未補。則食物觀瞻。多有不便。補得佳妙。不過痛只片"
+        },
+        {
+          "id": "p019-c05",
+          "kind": "main",
+          "text": "時耳。有缺者來館割補。自能唇齒相依。○目為一身至寶。"
+        },
+        {
+          "id": "p019-c06",
+          "kind": "main",
+          "text": "患者。間有不藥而愈。亦有因藥而壞。男婦小兒眼有小紅"
+        },
+        {
+          "id": "p019-c07",
+          "kind": "main",
+          "text": "處。卽宜就醫。不可自悞。更有一症。不甚大紅。尙能見物。倘"
+        },
+        {
+          "id": "p019-c08",
+          "kind": "main",
+          "text": "挨延不藥。亦慮失明。童子目疾畏光。為父母宜早攜到館"
+        },
+        {
+          "id": "p019-c09",
+          "kind": "main",
+          "text": "醫治。若被庸手所誤。必至失明。○有物墜入目中。留粘不"
+        },
+        {
+          "id": "p019-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p019-folio",
+          "kind": "folio",
+          "text": "八"
+        }
+      ]
+    },
+    {
+      "image": 20,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page20-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "43087e5558cc51eceff55a5c85aab9c09f415cd0c6d314eb72334853b464d223",
+      "units": [
+        {
+          "id": "p020-c01",
+          "kind": "main",
+          "text": "下。宜卽來館挑起。不須畏疼。此物自能拾起。○眼胞內翻。"
+        },
+        {
+          "id": "p020-c02",
+          "kind": "main",
+          "text": "睫毛倒捲。此症到久必害瞳人失明。但初起時。卽宜挑去"
+        },
+        {
+          "id": "p020-c03",
+          "kind": "main",
+          "text": "此毛。易為之事。並不大疼可免瞽疾。○眼睛變質者。大半"
+        },
+        {
+          "id": "p020-c04",
+          "kind": "main",
+          "text": "老人之症。雖致失明。亦解醫愈。卽不照舊。亦得觀瞻。○明"
+        },
+        {
+          "id": "p020-c05",
+          "kind": "main",
+          "text": "角罩生白雲。不能見物。若罩內有些見青。卽宜開移瞳人"
+        },
+        {
+          "id": "p020-c06",
+          "kind": "main",
+          "text": "在旁。今歲有二人。目患此疾。醫之全愈。"
+        }
+      ]
+    },
+    {
+      "image": 21,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page21-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "a3146c6ec079b67cc5040049b486dee6779544bd93e612169f03c6edccb64ff9",
+      "units": [
+        {
+          "id": "p021-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p021-folio",
+          "kind": "folio",
+          "text": "九"
+        }
+      ]
+    },
+    {
+      "image": 22,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page22-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "6438deeabee7377d12305e9d3c1e7f044e1e3460c24f1da7b0cd6d579b5566e8",
+      "units": [
+        {
+          "id": "p022-c01",
+          "kind": "main",
+          "text": "茲將"
+        },
+        {
+          "id": "p022-c02",
+          "kind": "main",
+          "text": "諸憲樂捐銀欵開列于左"
+        },
+        {
+          "id": "p022-c03",
+          "kind": "account",
+          "text": "閩浙總督部堂譚　捐番銀五十元"
+        },
+        {
+          "id": "p022-c04",
+          "kind": "account",
+          "text": "福州爵將軍希　捐番銀五十元"
+        },
+        {
+          "id": "p022-c05",
+          "kind": "account",
+          "text": "布政使張　捐番銀三十元"
+        },
+        {
+          "id": "p022-c06",
+          "kind": "account",
+          "text": "按察使陳　捐番銀三十元"
+        },
+        {
+          "id": "p022-c07",
+          "kind": "account",
+          "text": "兼署督糧道鹽法道龍　捐番銀三十元"
+        },
+        {
+          "id": "p022-c08",
+          "kind": "account",
+          "text": "福州府正堂唐　捐番銀二十五元"
+        },
+        {
+          "id": "p022-c09",
+          "kind": "account",
+          "text": "候補府正堂陳　捐番銀二十五元"
+        }
+      ]
+    },
+    {
+      "image": 23,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page23-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "60ab5493b4ca62c67f0c5eeb04ebb1a53f797992c9770bf6042f027173cb1da8",
+      "units": [
+        {
+          "id": "p023-c01",
+          "kind": "account",
+          "text": "理事分府景　捐番銀十五元"
+        },
+        {
+          "id": "p023-c02",
+          "kind": "account",
+          "text": "福防分府朱　捐番銀十五元"
+        },
+        {
+          "id": "p023-c03",
+          "kind": "account",
+          "text": "閩縣正堂蔡　捐番銀十五元"
+        },
+        {
+          "id": "p023-c04",
+          "kind": "account",
+          "text": "候官縣正堂李　捐番銀十五元"
+        },
+        {
+          "id": "p023-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p023-folio",
+          "kind": "folio",
+          "text": "十"
+        }
+      ]
+    },
+    {
+      "image": 24,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page24-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "f643366f5a6bb60a1f0a7a2b6d0307e34a1bd24d3d3316714d1d2c929c333eb4",
+      "units": [
+        {
+          "id": "p024-c01",
+          "kind": "heading",
+          "text": "本館入欵"
+        },
+        {
+          "id": "p024-c02",
+          "kind": "account",
+          "text": "官員樂捐　來銀三百元"
+        },
+        {
+          "id": "p024-c03",
+          "kind": "account",
+          "text": "外國客聞者　來銀四百八十五元六角九尖"
+        },
+        {
+          "id": "p024-c04",
+          "kind": "account",
+          "text": "售藥併機器　來銀五十三元五角三尖"
+        },
+        {
+          "id": "p024-c05",
+          "kind": "account",
+          "text": "診症筆資　來銀二十二元六角"
+        },
+        {
+          "id": "p024-c06",
+          "kind": "account",
+          "text": "雜欵　來銀三十三元三角四尖"
+        },
+        {
+          "id": "p024-c07",
+          "kind": "account",
+          "text": "共來銀八百九十五元一角六尖"
+        },
+        {
+          "id": "p024-c08",
+          "kind": "heading",
+          "text": "本館出欵"
+        },
+        {
+          "id": "p024-c09",
+          "kind": "account",
+          "text": "購外國藥併機器　去銀五百四十元零九角二尖"
+        }
+      ]
+    },
+    {
+      "image": 25,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page25-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "0b0043f8a0bf084db43c1c13215763d0947e633757c667f66d4254016c0b8c5f",
+      "units": [
+        {
+          "id": "p025-c01",
+          "kind": "account",
+          "text": "購本地物件　去銀五十元零三角"
+        },
+        {
+          "id": "p025-c02",
+          "kind": "account",
+          "text": "延華友工俸　去銀一百六十一元"
+        },
+        {
+          "id": "p025-c03",
+          "kind": "account",
+          "text": "修理等費　去銀五十六元八角五尖"
+        },
+        {
+          "id": "p025-c04",
+          "kind": "account",
+          "text": "保險　去銀十一元二角五尖"
+        },
+        {
+          "id": "p025-c05",
+          "kind": "account",
+          "text": "購書併印醫館畧述　去銀二十元零三角七尖"
+        },
+        {
+          "id": "p025-c06",
+          "kind": "account",
+          "text": "年頭短額　應銀四十五元六角三尖"
+        },
+        {
+          "id": "p025-c07",
+          "kind": "account",
+          "text": "共用八百八十六元三角二尖"
+        },
+        {
+          "id": "p025-c08",
+          "kind": "account",
+          "text": "年底更剩銀八元八角四尖"
+        },
+        {
+          "id": "p025-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p025-folio",
+          "kind": "folio",
+          "text": "十一"
+        }
+      ]
+    },
+    {
+      "image": 26,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page26-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "70b7f683eca08199d61f76867a668009f0feb9a50e844dba9815b862de10905f",
+      "units": [
+        {
+          "id": "p026-c01",
+          "kind": "heading",
+          "text": "更將前年醫學成就諸姓列左"
+        },
+        {
+          "id": "p026-c02",
+          "kind": "names",
+          "text": "張其煊　陳承惠　李振聲　章家裕"
+        },
+        {
+          "id": "p026-c03",
+          "kind": "heading",
+          "text": "更有在館習醫諸姓名列左"
+        },
+        {
+          "id": "p026-c04",
+          "kind": "names",
+          "text": "陳和景　陳壽楷　孫炳亨　黃壽安"
+        },
+        {
+          "id": "p026-c05",
+          "kind": "heading",
+          "text": "西醫書籍發售所有書名列左"
+        },
+        {
+          "id": "p026-c06",
+          "kind": "catalog",
+          "text": "化學初階　每部四本　裹紮新法　每部一本　西藥畧釋　每部四本"
+        },
+        {
+          "id": "p026-c07",
+          "kind": "catalog",
+          "text": "花柳指迷　每部一本　內科全書　每部六本　全體闡微　每部六本"
+        },
+        {
+          "id": "p026-c08",
+          "kind": "catalog",
+          "text": "眼科撮要　每部一本　醫書五種　每部五本　皮膚新編　每部一本"
+        },
+        {
+          "id": "p026-c09",
+          "kind": "catalog",
+          "text": "儒門醫學　每部四本　炎症論　每部一本　體用十章　每部四本"
+        }
+      ]
+    },
+    {
+      "image": 27,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page27-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "911d3b857f74311bcd31cbba0f3cdf74c539989bce5190ec2001351b21bd8167",
+      "units": [
+        {
+          "id": "p027-c01",
+          "kind": "catalog",
+          "text": "割症全書　每部一本　省身指掌　每部一本　化學易知　每部一本"
+        },
+        {
+          "id": "p027-c02",
+          "kind": "catalog",
+          "text": "衛生要旨　每部一本"
+        },
+        {
+          "id": "p027-running-title",
+          "kind": "running",
+          "text": "保福山聖教醫館畧述"
+        },
+        {
+          "id": "p027-folio",
+          "kind": "folio",
+          "text": "十二"
+        }
+      ]
+    },
+    {
+      "image": 28,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page28-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "6e4ea1e097cc8891147a945c14418e49804308d12b10a4377da81e0a00248fe9",
+      "units": [],
+      "blank": "無原刊文字"
+    },
+    {
+      "image": 29,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page29-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "589aef73e710ae747186e0153946c4e56f40c042163b2b7b361db98328f0d73e",
+      "units": [],
+      "blank": "無原刊文字"
+    },
+    {
+      "image": 30,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page30-1920px-Harvard_drs_430994500_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg",
+      "source_sha256": "ad12068a49e2a8b2c133a57689d66fccca667f37721f45d5c16fd9ab4eef017d",
+      "units": [],
+      "blank": "無原刊文字"
+    }
+  ],
+  "image_count": 30,
+  "main_range": [
+    5,
+    27
+  ],
+  "corrections": [
+    "原字保留「畧」等字形，對頁可查，整理題名用通行「略」。印頁、版心與 PDF 影像序號分開。",
+    "兩份獨立年度刊物以原封面編次、刊年及哈佛 DRS 鑑別。本份為十八編。",
+    "影像 13 的一個原刊字仍未能確定，暫用「□」。",
+    "影像 21 主框無原刊正文，原刊版心和丁碼保留。卷末收支 895.16 與 886.32 的差額 8.84 與原印一致。"
+  ],
+  "notes_zh": "《保福山聖教醫館略述十八編》刊於清光緒年間，記錄福州保福山聖教醫館的病例分類、來診統計、捐輸與院務。卷末列出當時流通的西醫書籍，可供教會醫療史、財務史與出版史比較。",
+  "notes_en": "This 1893 annual report from the Baofushan Christian Hospital in Fuzhou records historical patient statistics, hospital accounts, donations, and a list of medical books in circulation."
+}
